@@ -47,7 +47,7 @@ playwright-python-POM/
 
 1. **Clona el repositorio**  
    ```bash
-   git clone https://github.com/jhonrojas1998/Test-frontend-QA-Cod.git
+   git clone https://github.com/jhonrojas1998/playwright-python-web-POM.git
    cd playwright-python-POM
    ```
 
