@@ -1,0 +1,15 @@
+# Ignorar archivos compilados de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Configuración de entorno virtual (si usas venv)
+venv/
+.env
+
+# Archivos de logs y pytest cache
+*.log
+pytest_cache/
+
+# Archivos de Playwright (si descargas navegadores localmente)
+playwright/.cache/

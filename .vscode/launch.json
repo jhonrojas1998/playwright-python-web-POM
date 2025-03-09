@@ -1,0 +1,11 @@
+{
+    "name": "Run Playwright Tests",
+    "type": "python",
+    "request": "launch",
+    "module": "pytest",
+    "args": [
+        "tests/",
+        "--headed"  // Opcional: Ejecuta con navegador visible
+    ],
+    "console": "integratedTerminal"
+}
