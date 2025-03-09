@@ -5,8 +5,7 @@ Este proyecto implementa automatización de pruebas para **SauceDemo** utilizand
 ## 🧑‍💻 Autor
 
 👤 **Jhon Hader Rojas Cabrera**  
-📌 Proyecto desarrollado como parte de una prueba técnica de automatización.
-
+📌 Este proyecto es un ejercicio de autoaprendizaje sobre automatización de pruebas con Playwright y Python.
 ## 🚀 Tecnologías utilizadas
 
 - **Python 3.x**: Lenguaje de programación.
